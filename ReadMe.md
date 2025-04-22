@@ -1,5 +1,5 @@
 # 💫 About Me:
-About Me – Muhammad Abdullah Waseem<br><br>I’m a Full Stack Web & Mobile App Developer based in Karachi, Pakistan. With over 10 years of experience in the tech field, I specialize in both MERN Stack and PHP Laravel development, along with expertise in React Native for mobile applications.<br><br>## 💻 Tech Expertise:
+About Me – Muhammad Abdullah Waseem<br><br>I’m a Full Stack Web & Mobile App Developer based in Karachi, Pakistan. With over 10 years of experience in the tech field, I specialize in both MERN Stack and PHP Laravel development, along with expertise in React Native for mobile applications.<br><br> 💻 Tech Expertise:
 ```html
 Frontend     : HTML, CSS, JS, Bootstrap, Tailwind, React, Next, Vue  
 Backend      : PHP Laravel, Node.js  
