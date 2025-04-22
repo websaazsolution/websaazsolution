@@ -24,4 +24,7 @@ Other Tools  : APIs, Git, Postman, WordPress, Firebase, GCP
 ---
 [![](https://visitcount.itsvg.in/api?id=websaazsolution&icon=0&color=0)](https://visitcount.itsvg.in)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=websaazsolution&theme=darkhub&no-frame=true&column=7)](https://github.com/websaazsolution)
+
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
