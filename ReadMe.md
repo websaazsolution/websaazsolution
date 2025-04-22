@@ -26,5 +26,6 @@ Other Tools  : APIs, Git, Postman, WordPress, Firebase, GCP
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=websaazsolution&theme=darkhub&no-frame=true&column=7)](https://github.com/websaazsolution)
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=websaazsolution&theme=react-dark&hide_border=true)](https://github.com/websaazsolution)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
